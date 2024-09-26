@@ -27,7 +27,6 @@ APP_SETTINGS = LocalSettingsClass(
 
 DOMAIN = "56218ef983f3-8301993767665431593.ngrok-free.app"
 
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
